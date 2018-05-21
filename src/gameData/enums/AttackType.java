@@ -1,4 +1,4 @@
-package gameData.encounter.enums;
+package gameData.enums;
 
 public enum AttackType {
     RANGEDWEAPON, MELEEWEAPON, RANGEDSPELL, MELEESPELL, SPELL;

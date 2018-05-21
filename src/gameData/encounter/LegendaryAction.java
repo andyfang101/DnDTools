@@ -1,6 +1,6 @@
 package gameData.encounter;
 
-import gameData.encounter.enums.ActionType;
+import gameData.enums.ActionType;
 
 public class LegendaryAction extends Action {
     private int cooldown;

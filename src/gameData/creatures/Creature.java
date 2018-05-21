@@ -5,7 +5,7 @@ import gameData.encounter.LegendaryAction;
 
 import java.util.List;
 
-public class CreatureData {
+public class Creature {
 
     private int maxHP;
     private int currentHP;

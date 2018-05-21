@@ -1,8 +1,8 @@
 package gameData.encounter;
 
 import gameData.Die;
-import gameData.encounter.enums.ActionType;
-import gameData.encounter.enums.AttackType;
+import gameData.enums.ActionType;
+import gameData.enums.AttackType;
 
 public class AttackAction extends Action {
     private int numDamage;

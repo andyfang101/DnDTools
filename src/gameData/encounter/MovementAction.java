@@ -1,7 +1,7 @@
 package gameData.encounter;
 
-import gameData.encounter.enums.ActionType;
-import gameData.encounter.enums.MovementType;
+import gameData.enums.ActionType;
+import gameData.enums.MovementType;
 
 public class MovementAction extends Action{
     private int distance;

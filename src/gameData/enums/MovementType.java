@@ -1,4 +1,4 @@
-package gameData.encounter.enums;
+package gameData.enums;
 
 public enum MovementType {
     WALKING, FLYING, SWIMMING, INSTANTANEOUS;

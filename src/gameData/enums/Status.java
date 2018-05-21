@@ -1,6 +1,5 @@
-package gameData.encounter.enums;
+package gameData.enums;
 
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
